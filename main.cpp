@@ -20,8 +20,6 @@ int main()
 
 	while (true)
 	{
-
-		// protection (what my dad didn't wear)
 		SearchPC();
 		ProcessCheck();
 		DetectByTitle();
